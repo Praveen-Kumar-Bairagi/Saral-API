@@ -1,0 +1,378 @@
+{
+    "data": [
+        {
+            "id": "2344",
+            "parent_exercise_id": null,
+            "name": "Introduction to Dictionary",
+            "slug": "dictionary__intro_dictionary",
+            "sequence_num": 0,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/intro_dictionary.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2346",
+            "parent_exercise_id": null,
+            "name": " Accessing Elements from a Dictionary",
+            "slug": "dictionary__access_element_dictionary",
+            "sequence_num": 100,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/access_element_dictionary.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2348",
+            "parent_exercise_id": null,
+            "name": " Adding Elements to a  Dictionary",
+            "slug": "dictionary__add_element_to_dictionary",
+            "sequence_num": 200,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/add_element_to_dictionary.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2349",
+            "parent_exercise_id": null,
+            "name": "  Update Dictionary",
+            "slug": "dictionary__update_element_dictionary",
+            "sequence_num": 300,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/update_element_dictionary.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2350",
+            "parent_exercise_id": null,
+            "name": " Removing Elements from a Dictionary",
+            "slug": "dictionary__remove_element_dictionary",
+            "sequence_num": 400,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/remove_element_dictionary.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2345",
+            "parent_exercise_id": null,
+            "name": " Iteration",
+            "slug": "dictionary__iterations",
+            "sequence_num": 500,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/iterations.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2347",
+            "parent_exercise_id": "2347",
+            "name": " Questions",
+            "slug": "dictionary__Questions/intro",
+            "sequence_num": 7000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/intro.md",
+            "submission_type": "url",
+            "childExercises": [
+                {
+                    "id": "2351",
+                    "parent_exercise_id": "2347",
+                    "name": " Question 1 ",
+                    "slug": "dictionary__Questions/question1",
+                    "sequence_num": 7001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question1.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2352",
+                    "parent_exercise_id": "2347",
+                    "name": " Question 2",
+                    "slug": "dictionary__Questions/question2",
+                    "sequence_num": 7002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question2.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2353",
+                    "parent_exercise_id": "2347",
+                    "name": " Question 3",
+                    "slug": "dictionary__Questions/question3",
+                    "sequence_num": 7003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question3.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2354",
+                    "parent_exercise_id": "2347",
+                    "name": " Question 4",
+                    "slug": "dictionary__Questions/question4",
+                    "sequence_num": 7004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question4.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2355",
+                    "parent_exercise_id": "2347",
+                    "name": " Question 5",
+                    "slug": "dictionary__Questions/question5",
+                    "sequence_num": 7005,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question5.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2356",
+                    "parent_exercise_id": "2347",
+                    "name": " Question 6",
+                    "slug": "dictionary__Questions/question6",
+                    "sequence_num": 7006,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question6.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2357",
+                    "parent_exercise_id": "2347",
+                    "name": " Question 7",
+                    "slug": "dictionary__Questions/question7",
+                    "sequence_num": 7007,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question7.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2359",
+                    "parent_exercise_id": "2347",
+                    "name": " Question 8",
+                    "slug": "dictionary__Questions/question8",
+                    "sequence_num": 7008,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question8.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2358",
+                    "parent_exercise_id": "2347",
+                    "name": " Question 9",
+                    "slug": "dictionary__Questions/question9",
+                    "sequence_num": 7009,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question9.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2360",
+                    "parent_exercise_id": "2347",
+                    "name": " Question 10",
+                    "slug": "dictionary__Questions/question10",
+                    "sequence_num": 7010,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question10.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2361",
+                    "parent_exercise_id": "2347",
+                    "name": " Question 11",
+                    "slug": "dictionary__Questions/question11",
+                    "sequence_num": 7011,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question11.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2362",
+                    "parent_exercise_id": "2347",
+                    "name": " Question 12",
+                    "slug": "dictionary__Questions/question12",
+                    "sequence_num": 7012,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question12.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2363",
+                    "parent_exercise_id": "2347",
+                    "name": " Question 13",
+                    "slug": "dictionary__Questions/question13",
+                    "sequence_num": 7013,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question13.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2364",
+                    "parent_exercise_id": "2347",
+                    "name": " Question 14",
+                    "slug": "dictionary__Questions/question14",
+                    "sequence_num": 7014,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question14.md",
+                    "submission_type": "url"
+                }
+            ]
+        },
+        {
+            "id": "2404",
+            "parent_exercise_id": "2404",
+            "name": " Code Output  ",
+            "slug": "dictionary__OutputOfCode/intro",
+            "sequence_num": 8000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/OutputOfCode/intro.md",
+            "submission_type": "url",
+            "childExercises": [
+                {
+                    "id": "2408",
+                    "parent_exercise_id": "2404",
+                    "name": " Question 1 ",
+                    "slug": "dictionary__OutputOfCode/question1",
+                    "sequence_num": 8001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/OutputOfCode/question1.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2407",
+                    "parent_exercise_id": "2404",
+                    "name": " Question 2 ",
+                    "slug": "dictionary__OutputOfCode/question2",
+                    "sequence_num": 8002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/OutputOfCode/question2.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2409",
+                    "parent_exercise_id": "2404",
+                    "name": " Question 3",
+                    "slug": "dictionary__OutputOfCode/question3",
+                    "sequence_num": 8003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/OutputOfCode/question3.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2412",
+                    "parent_exercise_id": "2404",
+                    "name": " Question 4",
+                    "slug": "dictionary__OutputOfCode/question4",
+                    "sequence_num": 8004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/OutputOfCode/question4.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2410",
+                    "parent_exercise_id": "2404",
+                    "name": " Question 5",
+                    "slug": "dictionary__OutputOfCode/question5",
+                    "sequence_num": 8005,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/OutputOfCode/question5.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2413",
+                    "parent_exercise_id": "2404",
+                    "name": " Question 6",
+                    "slug": "dictionary__OutputOfCode/question6",
+                    "sequence_num": 8006,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/OutputOfCode/question6.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2411",
+                    "parent_exercise_id": "2404",
+                    "name": " Question 7",
+                    "slug": "dictionary__OutputOfCode/question7",
+                    "sequence_num": 8007,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/OutputOfCode/question7.md",
+                    "submission_type": "url"
+                }
+            ]
+        },
+        {
+            "id": "2405",
+            "parent_exercise_id": "2405",
+            "name": " Debug  Code",
+            "slug": "dictionary__DebugCode/intro",
+            "sequence_num": 9000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/DebugCode/intro.md",
+            "submission_type": "url",
+            "childExercises": [
+                {
+                    "id": "2416",
+                    "parent_exercise_id": "2405",
+                    "name": " Question 1 ",
+                    "slug": "dictionary__DebugCode/question1",
+                    "sequence_num": 9001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/DebugCode/question1.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2414",
+                    "parent_exercise_id": "2405",
+                    "name": " Question 2 ",
+                    "slug": "dictionary__DebugCode/question2",
+                    "sequence_num": 9002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/DebugCode/question2.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2417",
+                    "parent_exercise_id": "2405",
+                    "name": " Question 3",
+                    "slug": "dictionary__DebugCode/question3",
+                    "sequence_num": 9003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/DebugCode/question3.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2415",
+                    "parent_exercise_id": "2405",
+                    "name": " Question 4",
+                    "slug": "dictionary__DebugCode/question4",
+                    "sequence_num": 9004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/DebugCode/question4.md",
+                    "submission_type": "url"
+                }
+            ]
+        },
+        {
+            "id": "2406",
+            "parent_exercise_id": "2406",
+            "name": " Becoming A Programmer",
+            "slug": "dictionary__BonusTask/intro",
+            "sequence_num": 10000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/BonusTask/intro.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2418",
+            "parent_exercise_id": "2418",
+            "name": " Interview Questions",
+            "slug": "dictionary__InterviewQuestions/intro",
+            "sequence_num": 11000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/InterviewQuestions/intro.md",
+            "submission_type": "url",
+            "childExercises": []
+        }
+    ]
+}

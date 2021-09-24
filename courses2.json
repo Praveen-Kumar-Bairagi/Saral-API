@@ -1,0 +1,12 @@
+{
+    "id": "2348",
+    "parent_exercise_id": null,
+    "name": " Adding Elements to a  Dictionary",
+    "slug": "dictionary__add_element_to_dictionary",
+    "sequence_num": 200,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"\\n\\n## Adding Elements to a  Dictionary:-\\n\\n Python dictionary me hum ek baar me ek hi key-value add kar sakte hai aur add karne ke liye humein key ko square brackets \u201c[ ]\u201d me likhte hain aur uski value ko \u201c=\u201d operator ka use karke assign kar dete hain. **Example 1:-**  \"},{\"type\":\"python\",\"value\":{\"code\":\"dic= {\\n    'Name': 'RAM', \\n    'Age': 17,\\n    }\\n\\ndic['ORGANIZATION'] = \\\"NAV GURUKUL\\\"\\n\\ndic['place'] = 'dharamsala'\\n\\nprint(dic)\",\"testCases\":[]}},{\"type\":\"markdown\",\"value\":\"*Output:- *  `{'Name': 'RAM', 'Age': 17,'ORGANIZATION': 'NAVGURUKUL', 'place':'dharamsala}` **Example 2:-** \"},{\"type\":\"python\",\"value\":{\"code\":\"dic= {\\n   'Name': 'RAM',\\n   'Age': 17,\\n    }\\ndic['student']={\\n       'id':22, \\n       'place':'dharamsala'\\n   }\\nprint(dic)\",\"testCases\":[]}},{\"type\":\"markdown\",\"value\":\"*Output:-* `{'Name': 'RAM', 'Age': 17, 'student': {'id': 22, 'place': 'dharamsala'}}` \\n\\n## Key Exists or not\\n\\n Dictionary mai key exists karti hai ya nahi check karne ke liye hum in keyword ka use karte hai. \"},{\"type\":\"python\",\"value\":{\"code\":\"car ={\\n    \\\"brand\\\":  \\\"ford\\\",\\n    \\\"model\\\":  \\\"mustang\\\",\\n    \\\"year\\\":  1964\\n}\\nif \\\"model\\\" in car:\\n    print(\\\"Yes, 'model' is one of the keys in the car dictionary.\\\")\\n\\nelse:\\n    print(\\\"No, 'model' key dictionary mai nahi hai.\\\")\",\"testCases\":[]}},{\"type\":\"markdown\",\"value\":\"`Output :- ` `Yes, 'model' is one of the keys in the thisdict dictionary.` \"}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/add_element_to_dictionary.md"
+}
